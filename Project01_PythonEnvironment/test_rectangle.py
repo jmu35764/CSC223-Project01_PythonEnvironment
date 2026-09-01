@@ -17,3 +17,4 @@ def test_negative_width():
     assert box.get_length() == 4.0
     assert box.get_width() == 0.0
     assert box.get_area() == 0.0
+
