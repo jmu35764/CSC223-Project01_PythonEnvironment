@@ -26,6 +26,3 @@ class Rectangle:
     def get_area(self):
         return self.length * self.width
 
-
-
-
